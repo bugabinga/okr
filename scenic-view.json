@@ -1,0 +1,12 @@
+﻿{
+    "version":  "8.7.0",
+    "license":  "",
+    "url":  "http://fxexperience.com/downloads/scenic-view-8-7-0/#/dl.zip",
+    "homepage":  "http://fxexperience.com/scenic-view/",
+    "hash":  "sha512:c45aab08ad6ee18fe76f986caab11554fef1c8ab7757ac8d90853ded56292a8b498908b5e0f552e4a23af96c368df33f8c64a7829aa5fc06164bde39689a25d7",
+    "bin":  "scenic-view.bat",
+    "suggest":{
+    	"JDK": [ "extras/oraclejdk", "openjdk" ]
+    },
+    "pre_install": "\"@java -jar \"\"$dir\\scenicView.jar\"\" %*\" | out-file -en oem \"$dir\\scenic-view.bat\""
+}
