@@ -1,0 +1,14 @@
+﻿{
+    "version": "2.3.0",
+    "license": "BSD",
+    "url": "https://github.com/mvdan/sh/releases/download/v2.3.0/shfmt_v2.3.0_windows_amd64.exe",
+    "architecture": "64bit",
+    "homepage": "https://github.com/mvdan/sh",
+    "hash": "sha1:2e14389a14e2eefbda9ad794e234bddcb875e4fb",
+    "bin": [
+        [
+            "shfmt_v2.3.0_windows_amd64.exe",
+            "shfmt"
+        ]
+    ]
+}

@@ -1,0 +1,8 @@
+﻿{
+    "version":  "2.48.4",
+    "license":  "GPL3",
+    "url":  "https://www.irif.fr/~vouillon/unison/unison%202.48.4.zip",
+    "homepage":  "https://www.irif.fr/~vouillon/unison/",
+    "hash":  "sha512:2e2c282c0729c1078a46bb4d090404c9d5f39baa1fabf78c873b33f3c3b027d2c99b6830696c7bb82b2387dd813353779620370581a2ecb79f95369f1390478d",
+    "bin":  [["unison 2.48.4 text.exe", "unison"]]
+}
