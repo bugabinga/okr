@@ -1,0 +1,19 @@
+﻿{
+    "version": "0.3.10",
+    "license": "CC0-1.0",
+    "homepage": "https://github.com/casey/just",
+    "bin": "just.exe",
+    "checkver": "github",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/casey/just/releases/download/v0.3.10/just-v0.3.10-x86_64-pc-windows-gnu.zip"
+        }
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/casey/just/releases/download/$version/just-$version-x86_64-pc-windows-gnu.zip"
+            }
+        }
+    }
+}
