@@ -4,10 +4,12 @@
     "version": "0.2.4",
     "architecture": {
         "64bit": {
+            "extract_dir": "target/x86_64-pc-windows-msvc/release",
             "url": "https://github.com/dalance/flexlint/releases/download/v0.2.4/flexlint-v0.2.4-x86_64-win.zip",
             "hash": "sha512:345440a89b3ba2396aab64868ed8887f83397f44973ce9d3c2d3a5800f7c4cf3e5c1b2c1178177c6ca769e5a06a3d4c2220cf5ebeb2e3ff4a90c58e116a8b1d1"
         },
         "32bit": {
+            "extract_dir": "target/i686-pc-windows-msvc/release",
             "url": "https://github.com/dalance/flexlint/releases/download/v0.2.4/flexlint-v0.2.4-i686-win.zip",
             "hash": "sha512:1c61ae59e1413fbe054c7a972c3123e1a0940b03230788f27cfc79651848259f88e6ce363ed0745cd05e6a2af3a1dc9dfecaae01fe0d1897800930a5e8c9ae8d"
         }
