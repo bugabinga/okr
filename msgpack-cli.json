@@ -1,0 +1,8 @@
+﻿{
+    "version":  "0.4",
+    "license":  "Apache",
+    "url":  "https://github.com/jakm/msgpack-cli/releases/download/0.4/msgpack-cli-0.4-win-amd64.zip",
+    "homepage":  "https://github.com/jakm/msgpack-cli",
+    "hash":  "sha512:80977d9304d162697a5f8d1f91b39466a28592d72799a3af6eaf3e12361a1d4f61e23e88e47ea879a190bc3631a9a23063ae9914578f136d27661e7464200b86",
+    "bin": "msgpack-cli.exe"
+}

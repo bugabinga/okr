@@ -1,9 +1,0 @@
-{
-  "version": "5.3.4",
-  "url": "https://downloads.sourceforge.net/project/luabinaries/5.3.4/Tools%20Executables/lua-5.3.4_Win64_bin.zip",
-  "bin": ["lua53.exe", "luac53.exe", "wlua53.exe"],
-  "architecture": "64bit",
-  "hash": "sha1:dc4cb21278fbb34166512a294b04e5860173ff70",
-  "homepage": "https://sourceforge.net/projects/luabinaries",
-  "license": "http://luabinaries.sourceforge.net/license.html"
-}
